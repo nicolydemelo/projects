@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@100;300&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&display=swap');
+
+head {
+    display: none;
+}
+
+.form-group {
+    font-family: "Roboto", Helvetica, sans-serif;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1,5;
+    color: #000;
+    text-align: left;
+}
+
+.btn__btn-primary {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    font-family: "Roboto", Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.btn__btn-danger {
+    color: #fff;
+    background-color: #dc3545;
+    border-color: #dc3545;
+    border-style: dashed;
+    font-family: "KronaOne", Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: 400;
+}
